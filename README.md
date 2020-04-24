@@ -1,4 +1,4 @@
-# ProductsStoreOnKubernetes
+# ProductsStoreOnKubernetes ##
 
 This is a sample application used to demonstrate how to create dockerized aps and deploy them to Kubernetes cluster.  
 
