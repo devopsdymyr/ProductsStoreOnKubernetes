@@ -1,6 +1,6 @@
 # ProductsStoreOnKubernetes
 
-This is a sample application used to demonstrate how to create dockerized apps and deploy them to Kubernetes cluster.  
+This is a sample application used to demonstrate how to create dockerized aps and deploy them to Kubernetes cluster.  
 
 It takes a sample ASP.NET Core MVC app, creates its Dockerfile, then the Kubernetes deployment objects.  
 
